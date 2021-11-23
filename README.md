@@ -9,4 +9,4 @@ mindalytic/mindalytic is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-__[Mindalytic](https://mindalytic.com)__
+__[Mindalytic site](https://mindalytic.com)__
